@@ -1,0 +1,2 @@
+include ':app', ':characters', ':episodes', ':breakingbadservice'
+rootProject.name='breakignbad'
